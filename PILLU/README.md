@@ -24,6 +24,6 @@ The PILLU is a virtual assistant developed to learn from natural language inputs
  <LI> Java (For Android) </LI>
 </UL>
 
-#### Note: Complete Prototype will be available by this Sunday i.e. 26th Of May 2018 at 12AM IST
+#### Note: Complete Prototype will be available by this Sunday i.e. 26th Of May 2018
 
 I have added some of the white paper in reference folder will soon add some more and Jupyter Notebook with my analysis.
