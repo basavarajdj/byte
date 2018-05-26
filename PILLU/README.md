@@ -2,7 +2,7 @@
 
 Programmed Intelligence to Learn Language & Understand
 
-Due to some problem couldn't able to upload the Protype here, for complete notebook mail me at <b> cse.basavaraj@gmail.com </b>
+Due to some problem couldn't able to upload the Prototype here, for complete notebook mail me at <b> cse.basavaraj@gmail.com </b>
 
 <img src="https://github.com/basavarajdj/byte/blob/master/PILLU/Logo%20-%20Pillu%202.0.png" width=500 height=300>
 
