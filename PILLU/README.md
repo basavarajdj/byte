@@ -2,8 +2,6 @@
 
 Programmed Intelligence to Learn Language & Understand
 
-Due to some problem couldn't able to upload the Prototype here, for complete notebook mail me at <b> cse.basavaraj@gmail.com </b>
-
 <img src="https://github.com/basavarajdj/byte/blob/master/PILLU/Logo%20-%20Pillu%202.0.png" width=500 height=300>
 
 The PILLU is a virtual assistant developed to learn from natural language inputs. It uses Neural Networks and Natural Language Processing  to learn. To be specific it's not a simple question-answering application as PILLU v1.0. You will be able to chat with PILLU in natural language (For now its English), PILLU will learn from the inputs, remembers them and gives appropriate response.
@@ -26,6 +24,3 @@ The PILLU is a virtual assistant developed to learn from natural language inputs
  <LI> Java (For Android) </LI>
 </UL>
 
-#### Note: Complete Prototype will be available by this Sunday i.e. 26th Of May 2018
-
-I have added some of the white paper in reference folder will soon add some more and Jupyter Notebook with my analysis.
